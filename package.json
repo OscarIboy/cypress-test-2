@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:e2e": "cypress open --browser chrome --e2e"
+  },
+  "keyword": [
+    "e2e",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "Oscar Iboy",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "prettier": "^3.0.2"
+  }
+}
